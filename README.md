@@ -3,6 +3,8 @@
 
 This project aims to tackle the problem of email spam, a prevalent issue in electronic communication, by developing a spam detection system using Python. Leveraging natural language processing (NLP) techniques and machine learning, the system processes and classifies emails into spam and non-spam categories with notable accuracy.
 
+![GitHub Logo](https://miro.medium.com/v2/resize:fit:1400/1*WA9aceQugVlBS81r2a7Snw.png)
+
 ## Project Overview
 
 The project is structured into several key steps:
@@ -36,6 +38,8 @@ pip install pandas nltk scikit-learn
 ### Dataset
 
 The dataset used in this project is a collection of emails labeled as spam or non-spam. The initial dataset contains several unnecessary columns which are removed during preprocessing, leaving us with the main features: the email text and its corresponding label.
+
+Dataset Link: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 ### Detailed Steps
 
